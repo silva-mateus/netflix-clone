@@ -1,0 +1,11 @@
+$primary-color: #e50914;
+$dark-color: #141414;
+$background-color: #000;
+$font-body: #999;
+$font-color: #fff;
+$border-color: #3d3d3d;
+
+@mixin alignCenter {
+  align-items: center;
+  justify-content: center;
+}
